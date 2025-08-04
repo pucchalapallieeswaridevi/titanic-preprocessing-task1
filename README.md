@@ -18,6 +18,8 @@ This repository contains my submission for **Task 1: Data Cleaning & Preprocessi
 5. Visualized and detected outliers using boxplot
 
 ---
+![Screenshot](boxplot_outliers.png)
+
 
 ## 🔧 Tools Used
 - Python
